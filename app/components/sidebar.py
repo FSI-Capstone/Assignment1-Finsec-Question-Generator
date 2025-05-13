@@ -10,6 +10,7 @@ from utils.constants import (
     OUTPUT_FORMATS
 )
 
+
 def render_sidebar():
     """사이드바에 문제 생성 설정을 렌더링하고 설정값을 반환합니다."""
     with st.sidebar:
